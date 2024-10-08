@@ -1,4 +1,4 @@
-<?php defined('BASEPATH') || exit('No direct script access allowed'); ?>
+<?php echo "OKE GAS"; exit(); ?>
 
 <!DOCTYPE html>
 <html>
